@@ -3,6 +3,7 @@
 venv/
 ENV/
 nlp_venv
+nlp_env
 
 # Fichiers Python compilés
 __pycache__/
