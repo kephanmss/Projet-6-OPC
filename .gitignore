@@ -33,6 +33,7 @@ wheels/
 
 # Fichiers spécifiques à votre projet
 Data/
+Modeles/
 *.csv
 *.xlsx
 *.json
